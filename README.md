@@ -87,7 +87,7 @@ This AI-powered insight helps reduce downtime and improve reliability.
 |------|--------------|
 | 1️⃣ | User scans NFC tag for authentication |
 | 2️⃣ | Firebase verifies the user |
-| 3️⃣ | STM32 checks slot availability |
+| 3️⃣ | ESP32 checks slot availability |
 | 4️⃣ | Servo ejects charged battery |
 | 5️⃣ | Firebase logs user ID, slot number, and timestamp |
 | 6️⃣ | Sensors ensure safety during the swap |
